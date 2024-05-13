@@ -4,7 +4,7 @@
     <Identity Language="en-US" Id="halloween" Version="1.0.1" Publisher="Invilis"  />
     <DisplayName>Hallows&#39; Eve</DisplayName>
     <Description xml:space="preserve">A dark and spooky halloween theme.</Description>
-    <Tags>theme,color-theme,__web_extension</Tags>
+    <Tags>theme,color-theme,dark,__web_extension</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
     <Badges></Badges>
