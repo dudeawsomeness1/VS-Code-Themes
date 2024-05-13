@@ -1,0 +1,35 @@
+{
+	"name": "halloween",
+	"displayName": "Hallows' Eve",
+	"description": "A dark and spooky halloween theme.",
+	"publisher": "Invilis",
+	"version": "1.0.1",
+	"engines": {
+		"vscode": "^1.48.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hallows' Eve",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hallows'Eve-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5c7768c4-3a68-4723-862d-c63eb5120d72",
+		"publisherDisplayName": "Invilis",
+		"publisherId": "b5d520b6-7a74-44bb-b910-949846ba9cba",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1713119788577,
+		"pinned": false,
+		"source": "gallery"
+	},
+	"icon": "code_pumpkin.png"
+}
