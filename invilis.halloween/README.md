@@ -6,6 +6,6 @@
 
 BTW, I wish the VS marketplace would show the size of extensions, so here's the size of this one: 799.3 KiB.
 
-![Primes](https://raw.githubusercontent.com/dudeawsomeness1/VS-Code-Themes/main/Screenshots/halloween/halloween%20(2).jpg "Prime numbers are spooky... 661 D:")
-![Scheduling](https://raw.githubusercontent.com/dudeawsomeness1/VS-Code-Themes/main/Screenshots/halloween/halloween%20(1).jpg "Scheduling tasks is scary business!")
-![Matrix](https://raw.githubusercontent.com/dudeawsomeness1/VS-Code-Themes/main/Screenshots/halloween/halloween%20(1).png "Wouldn't it be spooky if we were in the Matrix?")
+![Primes](https://raw.githubusercontent.com/dudeawsomeness1/VS-Code-Themes/main/Screenshots/halloween/scary_primes.png "Prime numbers are spooky... 661 D:")
+![Scheduling](https://raw.githubusercontent.com/dudeawsomeness1/VS-Code-Themes/main/Screenshots/halloween/scary_tasks.png "Scheduling tasks is scary business!")
+![Matrix](https://raw.githubusercontent.com/dudeawsomeness1/VS-Code-Themes/main/Screenshots/halloween/spooky_matrix.png "Wouldn't it be spooky if we were in the Matrix?")
