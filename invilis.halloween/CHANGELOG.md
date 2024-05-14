@@ -4,6 +4,9 @@ All notable changes to the "halloween" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.2]
+- Put the correct size in the readme 😭
+
 ## [1.1.1]
 - Just updating little stuff like the readme.
 
