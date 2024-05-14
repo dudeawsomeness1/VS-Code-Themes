@@ -4,6 +4,23 @@
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#ffdba6",
+		"editor.selectionBackground": "#94052280",
+		// Alternate Default brackets
+		// "editorBracketHighlight.foreground1": "#f8de70",
+		// "editorBracketHighlight.foreground2": "#88E032",
+		// "editorBracketHighlight.foreground3": "#2595D4",
+		// "editorBracketHighlight.foreground4": "#541e6a",
+		// M&M brackets
+		"editorBracketHighlight.foreground1": "#fff200",
+		"editorBracketHighlight.foreground2": "#b11224",
+		"editorBracketHighlight.foreground3": "#2f9fd7",
+		"editorBracketHighlight.foreground4": "#31ac55",
+		"editorBracketHighlight.foreground5": "#f26f22",
+		"editorBracketHighlight.foreground6": "#603a34",
+		// Candy Corn brackets
+		// "editorBracketHighlight.foreground1": "#FFF4EB",
+		// "editorBracketHighlight.foreground2": "#FD5B22",
+		// "editorBracketHighlight.foreground3": "#F4C418",
 		"activityBarBadge.background": "#3f002a",
 		"sideBarTitle.foreground": "#ffc524",
 		"sideBar.background": "#1b123a",

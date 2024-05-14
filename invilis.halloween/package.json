@@ -3,19 +3,28 @@
 	"displayName": "Hallows' Eve",
 	"description": "A dark and spooky halloween theme.",
 	"publisher": "Invilis",
-	"version": "1.0.1",
+	"version": "1.1.0",
+	"repository": "https://github.com/dudeawsomeness1/VS-Code-Themes/tree/main/invilis.halloween",
 	"engines": {
 		"vscode": "^1.48.0"
 	},
 	"categories": [
 		"Themes"
 	],
+	"activationEvents": ["onCommand:halloween.switchBracketPalette"],
+	"main": "./out/extension.js",
 	"contributes": {
 		"themes": [
 			{
 				"label": "Hallows' Eve",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Hallows'Eve-color-theme.json"
+			}
+		],
+		"commands": [
+			{
+				"command": "halloween.switchBracketPalette",
+				"title": "Hallow's Eve: Switch Bracket Palette"
 			}
 		]
 	},
@@ -31,5 +40,17 @@
 		"pinned": false,
 		"source": "gallery"
 	},
-	"icon": "code_pumpkin.png"
+	"icon": "code_pumpkin.png",
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"pretest": "npm run compile && npm run lint",
+		"lint": "eslint src --ext ts",
+		"test": "vscode-test"
+	  },
+	"dependencies": {
+		"@types/vscode": "^1.89.0",
+		"vscode-test": "^1.6.1"
+	}
 }
