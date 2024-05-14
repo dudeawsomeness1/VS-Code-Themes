@@ -3,7 +3,7 @@
 	"displayName": "Hallows' Eve",
 	"description": "A dark and spooky halloween theme.",
 	"publisher": "Invilis",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"repository": "https://github.com/dudeawsomeness1/VS-Code-Themes/tree/main/invilis.halloween",
 	"engines": {
 		"vscode": "^1.48.0"
@@ -11,7 +11,9 @@
 	"categories": [
 		"Themes"
 	],
-	"activationEvents": ["onCommand:halloween.switchBracketPalette"],
+	"activationEvents": [
+		"onCommand:halloween.switchBracketPalette"
+	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"themes": [
@@ -48,7 +50,7 @@
 		"pretest": "npm run compile && npm run lint",
 		"lint": "eslint src --ext ts",
 		"test": "vscode-test"
-	  },
+	},
 	"dependencies": {
 		"@types/vscode": "^1.89.0",
 		"vscode-test": "^1.6.1"
